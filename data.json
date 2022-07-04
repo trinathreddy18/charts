@@ -1,14 +1,15 @@
 {
-   "firstName": "Joe",
-   "lastName": "Jackson",
-   "gender": "male",
-   "age": 28,
-   "address": {
-       "streetAddress": "101",
-       "city": "San Diego",
-       "state": "CA"
-   },
-   "phoneNumbers": [
-       { "type": "home", "number": "7349282382" }
-   ]
+   "UserName": "alok@alok.com",
+   "Password": "alok@123",
+   "Name": "Alok Tantiya"
+}
+{
+   "UserName": "nayak@alok.com",
+   "Password": "nayak@123",
+   "Name": "Sushant Nayak"
+}
+{
+   "UserName": "farid@alok.com",
+   "Password": "farid@123",
+   "Name": "Farid Khan"
 }
