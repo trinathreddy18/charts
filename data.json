@@ -1,15 +1,18 @@
 [{
    "UserName": "alok@alok.com",
    "Password": "alok@123",
-   "Name": "Alok Tantiya"
+   "Name": "Alok Tantiya",
+   "DataName": "alok"
 },
 {
    "UserName": "nayak@nayak.com",
    "Password": "nayak@123",
-   "Name": "Sushant Nayak"
+   "Name": "Sushant Nayak",
+   "DataName": "nayak"
 },
 {
    "UserName": "farid@farid.com",
    "Password": "farid@123",
-   "Name": "Farid Khan"
+   "Name": "Farid Khan",
+   "DataName": "farid"
 }]
